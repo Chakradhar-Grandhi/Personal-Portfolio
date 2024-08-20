@@ -180,9 +180,9 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/Chakradhar-Grandhi",
-    facebook: "https://www.facebook.com/naman.diwannn",
+    facebook: "https://www.facebook.com/grandhi.chakradhar",
     linkedin: "https://www.linkedin.com/in/chakradhar-grandhi-27691b170/",
-    twitter: "https://twitter.com/namzdiwan",
+    twitter: "https://x.com/chgrandh",
 };
 export {
     meta,

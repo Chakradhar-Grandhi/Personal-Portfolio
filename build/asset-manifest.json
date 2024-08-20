@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/www.chakradhargrandhi.me/static/css/main.8d6e3503.css",
+    "main.js": "/www.chakradhargrandhi.me/static/js/main.b3aecc2a.js",
+    "static/media/profilepic.jpeg": "/www.chakradhargrandhi.me/static/media/profilepic.46a484fd8d471d110873.jpeg",
+    "static/media/Chakradhar_Grandhi_Resume.pdf": "/www.chakradhargrandhi.me/static/media/Chakradhar_Grandhi_Resume.cc32bf7b252a82c150a7.pdf",
+    "static/media/healthcareDark.png": "/www.chakradhargrandhi.me/static/media/healthcareDark.374509b3d0981336cec5.png",
+    "static/media/motmDark.png": "/www.chakradhargrandhi.me/static/media/motmDark.9e9ee0a59b52accf3a08.png",
+    "static/media/healthcareLight.png": "/www.chakradhargrandhi.me/static/media/healthcareLight.77a3c46ccee7716e29c4.png",
+    "static/media/covidDark.png": "/www.chakradhargrandhi.me/static/media/covidDark.146af97b7a65e2f29810.png",
+    "static/media/motmLight.png": "/www.chakradhargrandhi.me/static/media/motmLight.3cf83403840bf4169cf6.png",
+    "static/media/moneydark.png": "/www.chakradhargrandhi.me/static/media/moneydark.7162a41f7300bdc2b6c5.png",
+    "static/media/ecommerceDark.png": "/www.chakradhargrandhi.me/static/media/ecommerceDark.c61fff87534bccfa41ac.png",
+    "static/media/covidLight.png": "/www.chakradhargrandhi.me/static/media/covidLight.76c053fa52d157f06f1a.png",
+    "static/media/moneylight.png": "/www.chakradhargrandhi.me/static/media/moneylight.5698bc2ef080b664493b.png",
+    "static/media/ecommerceLight.png": "/www.chakradhargrandhi.me/static/media/ecommerceLight.602c9c8d6869619ebdba.png",
+    "static/media/footballanalysisDark.png": "/www.chakradhargrandhi.me/static/media/footballanalysisDark.fa04ae3400daea3f368a.png",
+    "static/media/portfolioDark.png": "/www.chakradhargrandhi.me/static/media/portfolioDark.0291f2742f74b1760071.png",
+    "static/media/footballanalysisLight.png": "/www.chakradhargrandhi.me/static/media/footballanalysisLight.4e7bdfafebc8ad6c2a1a.png",
+    "static/media/portfolioLight.png": "/www.chakradhargrandhi.me/static/media/portfolioLight.45272d7711549d27ddd8.png",
+    "index.html": "/www.chakradhargrandhi.me/index.html",
+    "main.8d6e3503.css.map": "/www.chakradhargrandhi.me/static/css/main.8d6e3503.css.map",
+    "main.b3aecc2a.js.map": "/www.chakradhargrandhi.me/static/js/main.b3aecc2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6e3503.css",
+    "static/js/main.b3aecc2a.js"
+  ]
+}
