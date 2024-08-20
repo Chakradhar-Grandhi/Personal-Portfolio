@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/www.chakradhargrandhi.me/static/css/main.8d6e3503.css",
-    "main.js": "/www.chakradhargrandhi.me/static/js/main.b3aecc2a.js",
+    "main.js": "/www.chakradhargrandhi.me/static/js/main.44254b52.js",
     "static/media/profilepic.jpeg": "/www.chakradhargrandhi.me/static/media/profilepic.46a484fd8d471d110873.jpeg",
     "static/media/Chakradhar_Grandhi_Resume.pdf": "/www.chakradhargrandhi.me/static/media/Chakradhar_Grandhi_Resume.cc32bf7b252a82c150a7.pdf",
     "static/media/healthcareDark.png": "/www.chakradhargrandhi.me/static/media/healthcareDark.374509b3d0981336cec5.png",
@@ -20,10 +20,10 @@
     "static/media/portfolioLight.png": "/www.chakradhargrandhi.me/static/media/portfolioLight.45272d7711549d27ddd8.png",
     "index.html": "/www.chakradhargrandhi.me/index.html",
     "main.8d6e3503.css.map": "/www.chakradhargrandhi.me/static/css/main.8d6e3503.css.map",
-    "main.b3aecc2a.js.map": "/www.chakradhargrandhi.me/static/js/main.b3aecc2a.js.map"
+    "main.44254b52.js.map": "/www.chakradhargrandhi.me/static/js/main.44254b52.js.map"
   },
   "entrypoints": [
     "static/css/main.8d6e3503.css",
-    "static/js/main.b3aecc2a.js"
+    "static/js/main.44254b52.js"
   ]
 }
