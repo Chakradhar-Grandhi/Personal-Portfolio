@@ -8,12 +8,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.50fba090.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.50fba090.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.50fba090.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/socialicons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/socialicons/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/projects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/projects/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.3c8b7432.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.3c8b7432.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.3c8b7432.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content_option.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content_option.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724118151235</updated>
-      <workItem from="1724118152474" duration="8319000" />
+      <workItem from="1724118152474" duration="8723000" />
     </task>
     <servers />
   </component>

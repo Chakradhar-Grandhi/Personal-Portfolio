@@ -67,7 +67,7 @@ const skills = [
         items: [
             { name: "Java", value: 90 },
             { name: "C++", value: 80 },
-            { name: "Python", value: 75 },
+            { name: "Python", value: 85 },
             { name: "JavaScript", value: 85 }
         ]
     },
