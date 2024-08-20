@@ -2,7 +2,6 @@ import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col, Card } from "react-bootstrap";
-import { FaPlane, FaGuitar, FaGamepad } from "react-icons/fa"; // Importing icons
 import {
   dataabout,
   meta,

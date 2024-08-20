@@ -44,7 +44,10 @@ export const Projects = () => {
                     <p className="description-text">{data.description}</p> {/* Description displayed below image */}
                     <div className="content">
                       <p className="description-inline">{data.description}</p>
-                      <a href={data.link}>View Project</a>
+                      <a href={data.link}
+                         target="_blank"
+                         rel="noopener noreferrer"
+                      >View Project</a>
                     </div>
                   </div>
               );
