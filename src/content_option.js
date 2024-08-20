@@ -151,7 +151,7 @@ const dataportfolio = [{
     imgLight: portfolioLightImage,
     imgDark: portfolioDarkImage,
     description: "Professional Portfolio",
-    link: "https://github.com/namandiwan/professional-portfolio",
+    link: "https://github.com/Chakradhar-Grandhi/Personal-Portfolio",
 },
 
 ];

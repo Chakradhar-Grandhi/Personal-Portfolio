@@ -8,10 +8,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.b3aecc2a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.b3aecc2a.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.b3aecc2a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.44254b52.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.44254b52.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.44254b52.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content_option.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content_option.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724118151235</updated>
-      <workItem from="1724118152474" duration="5116000" />
+      <workItem from="1724118152474" duration="7787000" />
     </task>
     <servers />
   </component>
