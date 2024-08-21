@@ -17,7 +17,7 @@ This is a personal portfolio website project that showcases my skills, projects,
 
 ## Demo
 
-You can view a live demo of the portfolio [here](#).
+You can view a live demo of the portfolio [here](https://www.chakradhargrandhi.me).
 
 ## Features
 
