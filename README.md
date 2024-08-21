@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This is a personal portfolio website project that showcases your skills, projects, and experiences. The portfolio is built using modern web technologies and is designed to be responsive, accessible, and easy to customize.
+This is a personal portfolio website project that showcases my skills, projects, and experiences. The portfolio is built using modern web technologies and is designed to be responsive, accessible, and easy to customize.
 
 ## Table of Contents
 
