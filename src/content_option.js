@@ -49,15 +49,20 @@ const worktimeline = [{
     where: "WhoozCooking",
     date: "January 2024 - July 2024",
 },
+    {
+        jobtitle: "Software Engineer II ",
+        where: "Cisco Systems",
+        date: "August 2021 - August 2022",
+    },
 {
     jobtitle: "Software Engineer ",
     where: "Cisco Systems",
-    date: "Aug 2020 - April 2022",
+    date: "July 2020 - July 2021",
 },
 {
     jobtitle: "Software Engineer Intern",
     where: "Cisco Systems",
-    date: "January 2020 - July 2020",
+    date: "January 2020 - June 2020",
 },
 ];
 
