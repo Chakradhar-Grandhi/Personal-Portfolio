@@ -31,8 +31,8 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme:"I’m a Full Stack Software Engineer with over 3 years of experience, specializing in the MERN Stack (MongoDB, React, Node.js, Express.js) and backend development in Java. I have a deep understanding of all stages of the software development lifecycle (SDLC) and am skilled in Test-Driven Development (TDD), ensuring high-quality, reliable code. I’ve successfully worked on projects in the financial sector to enhance performance, security, and user experience. Currently, I’m pursuing a Master’s in Information Systems at Northeastern University in Boston. I’m passionate about tackling complex problems and am always eager to learn something new. In my free time, I enjoy playing the guitar. ",
-};
+    aboutme: "I’m a Backend-focused Software Engineer with over 3 years of experience, specializing in Java (Spring Boot), RESTful APIs, and event-driven systems using Kafka, OAuth2, and JWT.\n\nI’ve worked on large-scale backend systems in the financial and logistics domains, with a strong focus on performance, scalability, and security. I also bring full-stack experience with the MERN stack (MongoDB, Express.js, React, Node.js), allowing me to contribute across the development lifecycle when needed.\n\nI recently completed my Master’s in Information Systems at Northeastern University in Boston. I’m passionate about solving complex engineering problems and constantly expanding my skill set.In my free time, I enjoy playing the guitar.",
+}
 
 const education = {
     title: "Education",
@@ -44,75 +44,117 @@ const education = {
     year2: "2016-2020",
 };
 
-const worktimeline = [{
-    jobtitle: "Software Engineer Intern",
-    where: "WhoozCooking",
-    date: "January 2024 - July 2024",
-},
+const worktimeline = [
     {
-        jobtitle: "Software Engineer II ",
-        where: "Cisco Systems",
-        date: "August 2021 - August 2022",
+        jobtitle: "Software Engineer Intern",
+        where: "WhoozCooking, Boston, MA",
+        date: "Jan 2024 – Jul 2024",
+        summary: "Worked on optimizing delivery logistics and improving backend reliability. Led integration of third-party APIs, improved payment security using OAuth2 and JWT, and automated CI/CD workflows using AWS and Terraform."
     },
-{
-    jobtitle: "Software Engineer ",
-    where: "Cisco Systems",
-    date: "July 2020 - July 2021",
-},
-{
-    jobtitle: "Software Engineer Intern",
-    where: "Cisco Systems",
-    date: "January 2020 - June 2020",
-},
+    {
+        jobtitle: "Software Engineer II",
+        where: "Cisco Systems, Bangalore, India",
+        date: "Aug 2021 – Apr 2022",
+        summary: "Built and maintained high-throughput microservices using Spring Boot and Kafka. Focused on fault-tolerant, event-driven systems and introduced TDD practices to improve code quality and reliability."
+    },
+    {
+        jobtitle: "Software Engineer",
+        where: "Cisco Systems, Bangalore, India",
+        date: "May 2020 – Jul 2021",
+        summary: "Developed financial analytics tools and real-time visualizations using Java and React. Improved data processing performance and streamlined CI/CD pipelines for faster releases."
+    },
+    {
+        jobtitle: "Software Engineer Intern",
+        where: "Cisco Systems, Bangalore, India",
+        date: "Jan 2020 – Apr 2020",
+        summary: "Created a network analytics tool using Python and Flask to enhance protocol analysis and reporting efficiency."
+    }
 ];
+
 
 const skills = [
     {
         category: "Programming Languages",
         items: [
-            { name: "Java", value: 90 },
-            { name: "C++", value: 80 },
-            { name: "Python", value: 85 },
-            { name: "JavaScript", value: 85 }
+            { name: "Java (8+)", value: 95 },
+            { name: "C++", value: 75 },
+            { name: "Python", value: 80 },
+            { name: "JavaScript", value: 85 },
+            { name: "TypeScript", value: 80 }
         ]
     },
     {
-        category: "Frameworks",
+        category: "Backend Frameworks & APIs",
         items: [
-            {name: "SpringBoot", value: 85},
-            {name:"Spring", value: 85},
-            {name:"Flask",value: 80},
-            {name: "RESTful API", value: 90}
+            { name: "Spring Boot", value: 95 },
+            { name: "Spring / Spring JPA", value: 90 },
+            { name: "Spring Batch", value: 85 },
+            { name: "Node.js / Express.js", value: 80 },
+            { name: "RESTful API", value: 95 }
         ]
     },
     {
-        category: "Web Development",
+        category: "Web & Frontend",
         items: [
-            { name: "MERN", value: 80 },
+            { name: "React.js", value: 80 },
+            { name: "Redux", value: 75 },
+            { name: "MERN Stack", value: 80 },
             { name: "HTML", value: 80 },
-            { name: "CSS", value: 80 },
-            {name: "GraphQl", value: 75}
+            { name: "CSS", value: 75 }
         ]
     },
     {
-        category: "DevOps and Cloud",
+        category: "Additional Backend Tech",
         items: [
-            { name: "AWS", value: 80 },
-            { name: "Git", value: 85 },
-            { name: "Docker", value: 70 },
-            { name: "Jenkins", value: 70 },
-
+            { name: "GraphQL", value: 75 },
+            { name: "gRPC", value: 70 },
+            { name: "Flask", value: 75 },
+            { name: "Kafka", value: 90 },
+            { name: "Highcharts", value: 70 }
         ]
     },
     {
-        category: "Tools and Database",
+        category: "DevOps & CI/CD",
         items: [
-            { name: "MongoDB", value: 80 },
+            { name: "Git / GitHub Actions", value: 90 },
+            { name: "Jenkins", value: 75 },
+            { name: "Docker", value: 80 },
+            { name: "Terraform", value: 80 },
+            { name: "CI/CD Pipelines", value: 90 }
+        ]
+    },
+    {
+        category: "Cloud & Infrastructure",
+        items: [
+            { name: "AWS EC2 / S3 / RDS", value: 85 },
+            { name: "AWS Lambda / SNS", value: 80 },
+            { name: "CloudWatch", value: 80 },
+            { name: "OAuth 2.0 / JWT", value: 90 },
+            { name: "VPC & Networking", value: 75 }
+        ]
+    },
+    {
+        category: "Databases & Tools",
+        items: [
+            { name: "MongoDB", value: 85 },
+            { name: "PostgreSQL", value: 85 },
             { name: "SQL", value: 90 },
-            { name: "Postman", value: 70 }
+            { name: "Swagger", value: 80 },
+            { name: "Postman", value: 80 }
+        ]
+    },
+    {
+        category: "Other Tools",
+        items: [
+            { name: "Jira", value: 75 },
+            { name: "Shell Scripting", value: 70 },
+            { name: "Maven", value: 75 },
+            { name: "Gradle", value: 75 },
+            { name: "Linux", value: 80 }
         ]
     }
 ];
+
 
 const dataportfolio = [{
     imgLight:moneyLightImage,

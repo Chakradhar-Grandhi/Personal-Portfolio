@@ -32,8 +32,11 @@ export const About = () => {
               <h3 className="section-title">{dataabout.title}</h3>
             </Col>
             <Col lg="7" className="d-flex align-items-center">
-              <p style={{ textAlign: "justify" }}>{dataabout.aboutme}</p>
+              <p style={{ textAlign: "justify", whiteSpace: "pre-line" }}>
+                {dataabout.aboutme}
+              </p>
             </Col>
+
           </Row>
 
           <Row className="sec_sp">
@@ -73,11 +76,14 @@ export const About = () => {
                       <div className="date-text">
                         <p>{data.date}</p>
                       </div>
+                      <br />
+                      <p style={{ textAlign: "justify" }}>{data.summary}</p>
                     </div>
                 ))}
               </div>
             </Col>
           </Row>
+
 
 
 
